@@ -1,0 +1,23 @@
+#t
+{
+    width: 50%;
+    color: red;
+    border-style: solid;
+    border-color: greenyellow;
+    margin-left: 25%;
+    margin-top: 20%;
+    padding-left: 25%;
+}
+#b
+{
+    width: 50%;
+    color: green;
+    border-style: solid;
+    border-color: hotpink;
+    margin-left: 35%;
+    margin-top: 35%;
+    padding-left: 25%;
+}
+h1{
+    font-family: 'Ranchers', cursive;
+}

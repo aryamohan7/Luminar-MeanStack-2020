@@ -1,0 +1,42 @@
+/*tag/class/id{
+    property:value;
+        .
+        .
+        .
+}
+*/
+h1{
+    color:red;
+   
+}
+body
+{
+    background-color: rgb(235, 208, 52);
+}
+h2{
+    color: #34eb7a;
+}
+#o{
+    color: black;
+}
+
+#on
+{
+    color: yellow;
+}
+
+.thi
+{
+    background-color: tan;
+    border-style: double ;
+    border-color: rosybrown;
+}
+#sec
+{
+    border-style: groove;
+    border-color: sienna;
+}
+div{
+    background-color: slategrey;
+    border-style: hidden;
+}

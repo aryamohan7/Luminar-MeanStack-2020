@@ -1,0 +1,15 @@
+/*
+Algorirthm
+algo binary_search(arr,low,high,mid,element)
+
+step 1 :- Input always sorted array
+
+step 2 :- low = 0 & upper = 8
+
+Step 3 :-mid =(low+high)/2=(0+8)/2 = 4
+
+step 4 :- element>ar[3] , low = mid+1
+
+step 5 :- element<ar[3] , upper = mid-1
+
+*/

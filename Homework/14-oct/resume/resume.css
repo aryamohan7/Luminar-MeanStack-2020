@@ -1,0 +1,21 @@
+#photo{
+padding-left: 20%;
+height: 10in;
+
+}
+#am{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name{
+    word-spacing: 1ch;
+}
+#nam{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: blueviolet;
+    font-size: 0.3in;
+}
+#sd{
+    font-size: 0.2in;
+}

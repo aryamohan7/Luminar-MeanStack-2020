@@ -1,0 +1,6 @@
+abnormal condition in a code is called Exception
+
+try:-doubtful code
+catch :-handling code
+finally :-cleanup code
+throw:-customized exception print
